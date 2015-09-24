@@ -2,3 +2,5 @@ This is just me trying out the various commnads in the git tutorials. This repo 
 Also, source for my tutorials : https://try.github.io/
 
 Have fun !!!!
+
+P.S. - Gonna make some changes so as to experiment with pull.
